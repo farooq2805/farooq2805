@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Syed+Umer+Farooq;I+build+AI+automation+that+works.;I+teach+teams+how+to+use+AI+every+day." alt="Syed Umer Farooq" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Syed+Umer+Farooq;I+build+AI+automation+that+works.;I+teach+teams+how+to+use+AI+every+day." alt="Syed Umer Farooq" />
 </p>
 <p align="center">
 <b>One Builder. Across AI, Marketing and Learning.</b><br>
